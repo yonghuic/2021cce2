@@ -5,7 +5,7 @@ int main()
     scanf("%s", line);
     for(int i=0;i<2000;i++)
     {
-        if(line[i] == '2')printf("§ä¨ì2\n");
+        if(line[i] == '2')printf("Â§Ã¤Â¨Ã¬2\n");
     }
     return 0;
 }
